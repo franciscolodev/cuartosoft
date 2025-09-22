@@ -1,19 +1,28 @@
 ---
 title: "Portfolios"
-description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
+description: "Creamos sitios web de portfolio que destacan tus proyectos, transmiten profesionalismo y te ayudan a atraer nuevos clientes."
 image: "/images/blog-1.jpg"
 date: 2022-04-04T05:00:00Z
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+En **CuartoSoft** desarrollamos **sitios web de portfolio** diseñados para mostrar tus proyectos de manera clara, atractiva y profesional.  
+Un buen portfolio no solo expone trabajos terminados: también comunica la historia detrás de cada proyecto, los desafíos superados y los resultados alcanzados.  
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Este tipo de sitios son ideales para **freelancers, agencias, estudios creativos y empresas** que buscan potenciar su **presencia digital** y generar nuevas oportunidades de negocio.  
+
+Nuestros portfolios están pensados para:  
+
+- **Resaltar la identidad profesional** con un diseño alineado a tu estilo y marca.  
+- **Mostrar proyectos de forma clara**, destacando logros y resultados.  
+- **Generar confianza** en potenciales clientes a través de un sitio moderno y funcional.  
+- **Facilitar la conexión**, integrando formularios, contacto directo o redes sociales.  
 
 ## Creative Design
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+El diseño creativo es esencial en un portfolio.  
+Una interfaz atractiva, bien estructurada y fácil de navegar marca la diferencia entre captar la atención de un cliente o pasar desapercibido.  
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+> “Tu portfolio es tu carta de presentación digital: refleja tu experiencia, tu creatividad y tu valor profesional.”  
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Con **CuartoSoft**, transformamos tu portfolio en una **herramienta estratégica** que inspira confianza, comunica resultados y abre la puerta a nuevas oportunidades.  

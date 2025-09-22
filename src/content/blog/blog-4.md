@@ -1,19 +1,27 @@
 ---
-title: "How to make toys from old Olarpaper"
-description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
+title: "Institucional"
+description: "Creamos sitios institucionales profesionales que refuercen la identidad de tu marca y comuniquen confianza en el entorno digital."
 image: "/images/blog-4.jpg"
 date: 2022-07-04T05:00:00Z
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+En **CuartoSoft** desarrollamos **sitios web institucionales** que transmiten la esencia, los valores y la visión de cada empresa u organización.  
+Un sitio institucional no solo cumple la función de informar: es la carta de presentación digital que refleja la **seriedad, la identidad y la confianza** que tu marca necesita proyectar.  
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Nuestros sitios están diseñados para:  
 
-## Creative Design
+- **Comunicar Identidad:** mostrar la misión, visión y valores de manera clara y atractiva.  
+- **Transmitir Confianza:** estructuras sólidas y diseños profesionales que inspiran credibilidad.  
+- **Organizar la Información:** secciones intuitivas para historia, servicios, equipo y contacto.  
+- **Fortalecer la Marca:** un espacio digital coherente con la identidad visual de tu empresa.  
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+## Beneficios de un Sitio Institucional
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+- Reforzar la **presencia digital** con una web confiable y moderna.  
+- Generar **credibilidad** frente a clientes, inversores y aliados estratégicos.  
+- Brindar una **imagen profesional** que se alinea con los objetivos corporativos.  
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+> “Impulsemos tu presencia digital, profesionalicemos tu sitio.”  
+
+En **CuartoSoft** ayudamos a empresas, fundaciones, asociaciones y organizaciones a contar con un **espacio institucional digital** que los represente con calidad, profesionalismo y confianza. 
