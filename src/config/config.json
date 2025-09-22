@@ -1,0 +1,37 @@
+{
+  "site": {
+    "title": "CuartoSoft",
+    "base_url": "https://cuartosoft.vercel.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "38",
+    "logo_text": "CuartoSoft"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Empecemos",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "copyright": "CuartoSoft @ 2025"
+  },
+
+  "metadata": {
+    "meta_author": "CuartoSoft",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "CuartoSoft"
+  }
+}
