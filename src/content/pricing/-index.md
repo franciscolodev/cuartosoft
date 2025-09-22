@@ -6,7 +6,7 @@ plans:
   - title: Plan Básico
     subtitle: Ideal para emprendedores y profesionales
     price: 185
-    type: one-time
+    type: pago único
     features:
       - Diseño responsive (móviles y tablets)
       - Dominio .com.ar y hosting por 1 año
@@ -20,7 +20,7 @@ plans:
   - title: Plan Profesional
     subtitle: Ideal para pequeñas empresas o proyectos
     price: 360
-    type: one-time
+    type: pago único
     recommended: true
     features:
       - Diseño a medida (sin plantillas)
@@ -38,7 +38,7 @@ plans:
   - title: Plan E-Commerce
     subtitle: Ideal para negocios que desean vender online
     price: 690
-    type: one-time
+    type: pago único
     features:
       - Diseño a medida (sin plantillas)
       - Catálogo de productos ilimitado
