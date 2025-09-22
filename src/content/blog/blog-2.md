@@ -1,19 +1,28 @@
 ---
 title: Perfiles Profesionales
-description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
+description: "Desarrollamos sitios web modernos y personalizados para profesionales que buscan destacar su trayectoria, generar confianza y captar clientes."
 image: "/images/blog-2.jpg"
 date: 2022-05-04T05:00:00Z
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Hoy en día, contar con un **sitio web profesional** es clave para transmitir confianza y consolidar la presencia digital de cualquier especialista.  
+En **CuartoSoft** diseñamos y desarrollamos páginas web adaptadas a las necesidades de **médicos, abogados, contadores, arquitectos, diseñadores, coaches, consultores** y otros perfiles que requieren mostrar su experiencia de forma clara y atractiva.  
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Nuestros sitios web para perfiles profesionales se centran en:  
 
-## Creative Design
+- **Identidad Personalizada:** diseño alineado a la imagen y estilo de cada profesional.  
+- **Presentación de Servicios:** secciones claras para detallar áreas de trabajo y experiencia.  
+- **Credibilidad y Confianza:** espacios para testimonios, certificaciones o trayectoria académica.  
+- **Conexión Directa:** formularios de contacto, integración con WhatsApp o agendamiento online.  
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+## Beneficios
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Un sitio web profesional no es solo una tarjeta de presentación digital:  
+- Aumenta la **visibilidad online** frente a potenciales clientes.  
+- Refuerza la **reputación profesional**.  
+- Genera más **oportunidades de negocio** de manera organizada y escalable.  
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+> “Tu experiencia merece ser presentada con la calidad y profesionalismo que transmites en tu trabajo.”  
+
+Con **CuartoSoft**, transformamos la trayectoria de cada profesional en una **presencia digital sólida y confiable**.
