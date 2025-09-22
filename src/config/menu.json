@@ -21,7 +21,7 @@
       "url": "/faq"
     },
     {
-      "name": "Servicios",
+      "name": "Proyectos",
       "url": "/elements"
     }
   ],
@@ -44,11 +44,11 @@
       "menu": [
         {
           "text": "Características",
-          "url": "#"
+          "url": "/blog"
         },
         {
-          "text": "Plataforma",
-          "url": "#"
+          "text": "Proyectos",
+          "url": "/elements"
         },
         {
           "text": "Precios",

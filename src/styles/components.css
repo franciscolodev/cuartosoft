@@ -8,6 +8,15 @@
   @apply mx-auto! max-w-[1140px]! px-4!;
 }
 
+/* btn proyect button style */
+.btn-project {
+  @apply px-2 py-1 text-xs font-medium border border-gray-400 rounded-md text-black bg-white transition duration-300 ease-in-out;
+}
+
+.btn-project:hover {
+  @apply bg-blue-600 text-white border-blue-600;
+}
+
 /* social icon style */
 .social-icons {
   @apply space-x-4;
