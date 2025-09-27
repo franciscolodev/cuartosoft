@@ -1,7 +1,7 @@
 ---
 title: "Institucional"
 description: "Creamos sitios institucionales profesionales que refuercen la identidad de tu marca y comuniquen confianza en el entorno digital."
-image: "/images/blog-4.jpg"
+image: "/images/institucional.png"
 date: 2022-07-04T05:00:00Z
 draft: false
 ---

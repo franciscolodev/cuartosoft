@@ -1,7 +1,7 @@
 ---
 title: "Transformación Digital para Empresas"
 description: "Impulsamos la transformación digital de tu empresa con sitios web profesionales, escalables y diseñados para potenciar el crecimiento y la eficiencia."
-image: "/images/blog-4.jpg"
+image: "/images/transformacion.png"
 date: 2022-08-04T05:00:00Z
 draft: false
 ---
