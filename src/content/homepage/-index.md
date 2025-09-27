@@ -47,7 +47,7 @@ services:
   - title: "Seguridad y confianza para tu sitio"
     content: "Protegemos tu proyecto con buenas prácticas de ciberseguridad y servidores confiables. Tu información y la de tus clientes están seguras con nosotros."
     images:
-      - "/images/service-slide-1.png"
+      - "/images/security.png"
     button:
       enable: true
       label: Conocé más
@@ -56,9 +56,7 @@ services:
   - title: "Expertos a tu disposición"
     content: "Somos un equipo de desarrolladores y asesores que te acompañan en todo el proceso, desde la idea inicial hasta la publicación y mantenimiento de tu sitio web."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/cowork.png"
     button:
       enable: true
       label: Conocé más
@@ -67,9 +65,7 @@ services:
   - title: "¿Qué nos diferencia del resto?"
     content: "Ofrecemos un servicio personalizado, rápido y accesible. Nos enfocamos en resultados medibles para que tu inversión tenga un impacto real en tu negocio."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/unicos.png"
     button:
       enable: true
       label: Conocé más

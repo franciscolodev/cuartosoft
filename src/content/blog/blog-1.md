@@ -1,7 +1,7 @@
 ---
 title: "Portfolios"
 description: "Creamos sitios web de portfolio que destacan tus proyectos, transmiten profesionalismo y te ayudan a atraer nuevos clientes."
-image: "/images/blog-1.jpg"
+image: "/images/portfolio.png"
 date: 2022-04-04T05:00:00Z
 draft: false
 ---

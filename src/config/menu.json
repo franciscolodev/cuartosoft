@@ -5,12 +5,16 @@
       "url": "/"
     },
     {
-      "name": "Blog",
+      "name": "Servicios",
       "url": "/blog"
     },
     {
       "name": "Precios",
       "url": "/pricing"
+    },
+        {
+      "name": "Proyectos",
+      "url": "/elements"
     },
     {
       "name": "Contacto",
@@ -19,10 +23,6 @@
     {
       "name": "FAQ",
       "url": "/faq"
-    },
-    {
-      "name": "Proyectos",
-      "url": "/elements"
     }
   ],
   "footer": [
@@ -30,11 +30,11 @@
       "name": "Acerca de",
       "menu": [
         {
-          "text": "Precios",
-          "url": "/pricing"
+          "text": "Nosotros",
+          "url": "/"
         },
         {
-          "text": "Guía Rápida",
+          "text": "Contacto",
           "url": "#"
         }
       ]
@@ -43,7 +43,7 @@
       "name": "Servicios",
       "menu": [
         {
-          "text": "Características",
+          "text": "Servicios",
           "url": "/blog"
         },
         {

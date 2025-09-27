@@ -1,7 +1,7 @@
 ---
 title: Perfiles Profesionales
 description: "Desarrollamos sitios web modernos y personalizados para profesionales que buscan destacar su trayectoria, generar confianza y captar clientes."
-image: "/images/blog-2.jpg"
+image: "/images/profile.png"
 date: 2022-05-04T05:00:00Z
 draft: false
 ---

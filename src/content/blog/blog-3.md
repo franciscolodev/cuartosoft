@@ -1,7 +1,7 @@
 ---
 title: E-Commerce
 description: "Desarrollamos tiendas online profesionales y escalables que impulsan tus ventas, mejoran la experiencia del cliente y refuerzan tu presencia digital."
-image: "/images/blog-3.jpg"
+image: "/images/ecommerce.png"
 date: 2022-06-02T06:00:00+00:00
 draft: false
 ---
